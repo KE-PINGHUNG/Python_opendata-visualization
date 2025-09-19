@@ -1,0 +1,6 @@
+python==3.12
+pandas==2.2.2   
+Matplotlib==3.9.2
+
+
+
